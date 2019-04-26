@@ -1,0 +1,7 @@
+Requirement
+1. numpy
+2.pandas
+3.Jupyter
+4.matplotlib,seaborn
+5. nltk
+6. Tf-Idf
